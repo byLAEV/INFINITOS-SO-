@@ -1,6 +1,19 @@
 # INFINITOS-SO-
 INFINITOS es un sistema operativo tridimensional descentralizado, donde cada archivo, código o proceso vive fragmentado y cifrado dentro de un universo 3D infinito. Las peticiones se desplazan espacialmente, ensamblando temporalmente funciones distribuidas entre múltiples modelos de IA autónomos.
 
+INFINITOS: Sistema Operativo Espacial Descentralizado
+
+Abstracto
+
+INFINITOS es una arquitectura de sistema operativo radicalmente nueva basada en espacios digitales tridimensionales infinitos. Cada modelo de inteligencia artificial opera de forma independiente dentro de su propio universo 3D, representado por un archivo digital navegable, en el cual los objetos contienen código, entradas, salidas, y lógicas de interacción cifradas.
+
+Estos objetos poseen inteligencia artificial interna que gestiona las peticiones locales, mientras una inteligencia superior actúa como espectro administrativo global, supervisando todas las operaciones, verificando las solicitudes y orquestando la comunicación entre objetos y espacios de distintos modelos.
+
+El código del sistema, fragmentado y cifrado, se distribuye entre múltiples objetos y modelos IA. Cuando una función es requerida, se activa una petición que atraviesa los espacios para localizar y recuperar los fragmentos necesarios. Estos son ensamblados de forma temporal, ejecutados de manera efímera y posteriormente disueltos, garantizando máxima seguridad, descentralización y no persistencia de la información completa.
+
+INFINITOS redefine la computación simbólica, el almacenamiento distribuido y la ejecución de procesos, mediante una métrica basada en movimiento espacial, comunicación semántica y ensamblaje dinámico. Es una infraestructura pensada para soberanía digital, integración con IA descentralizadas, sistemas blockchain y futuros entornos de realidad extendida.
+
+
 # INFINITOS: Sistema Operativo Espacial Descentralizado
 
 ## Índice General
